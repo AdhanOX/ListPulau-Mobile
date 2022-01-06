@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pulau Indonesia</string>
+    <string name="mhs_name">Nama Pulau</string>
+    <string name="Nim">Luas: </string>
+    <string name="about">About</string>
+
+    <string name="TTL">Keterangan : </string>
+    <string name="Semester">Terletak : </string>
+    <string name="list">List</string>
+    <string name="description">ini deskripsi</string>
+
+    <string name="nama">Akbar Taqwa Ramadhan</string>
+    <string name="email">akbartaqwa@gmail.com</string>
+    <string name="blank">*if picture blank you must ask </string>
+</resources>
